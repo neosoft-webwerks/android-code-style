@@ -1,4 +1,4 @@
-# Installing the google styleguide settings in intellij/android studio
+# Installing the google styleguide in intellij/android studio
 
 ***Installing the coding style settings in Intellij***
 
@@ -16,7 +16,7 @@ Download it and go into Preferences -> Editor -> Code Style. Click on Manage and
 
 Download the eclipse-java-google-style.xml file from the http://code.google.com/p/google-styleguide/ repo. Under Window/Preferences select Java/Code Style/Formatter. Import the settings file by selecting Import.
 
-----------
+---------- OR USE --------------
 # Neosoft code style for android
 The code styles below are strict rules for contributing Java code to the Android project. 
 
